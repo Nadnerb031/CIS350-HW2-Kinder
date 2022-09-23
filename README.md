@@ -3,5 +3,5 @@ Repository for HW2 in CIS350
 
 # Brendan Kinder
 
-- I like playing video games, mainly rhythm games and rpg
+- I like playing video games, mainly rhythm games and rpgs
 ![Favorite Meme](https://i.imgur.com/yWQaJvI.png)
